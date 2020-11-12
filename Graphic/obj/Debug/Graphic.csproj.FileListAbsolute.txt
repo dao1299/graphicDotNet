@@ -1,0 +1,9 @@
+D:\hoc .NET\Graphic\Graphic\bin\Debug\Graphic.exe.config
+D:\hoc .NET\Graphic\Graphic\bin\Debug\Graphic.exe
+D:\hoc .NET\Graphic\Graphic\bin\Debug\Graphic.pdb
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.exe
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.pdb
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.Form1.resources
+D:\hoc .NET\Graphic\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
